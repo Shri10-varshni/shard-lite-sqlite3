@@ -1,14 +1,6 @@
-# Shard-lite
+# Shard-lite (Still in development)
 
 Shard-lite is a Python library designed to implement sharding functionality for SQLite databases. This project aims to provide an easy-to-use interface for distributing data across multiple SQLite databases, enhancing performance and scalability.
-
-## Project Structure
-
-- `sqlite_sharding/`: Contains the main module for the SQLite sharding library.
-- `tests/`: Directory for unit tests and other testing files.
-- `.gitignore`: Specifies files and directories to be ignored by Git.
-- `requirements.txt`: Lists the dependencies required for the project.
-- `README.md`: Documentation for the project.
 
 ## Setup Instructions
 
